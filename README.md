@@ -11,67 +11,67 @@ It is a well-known tool, that is simple to use and understand.
 
 It is best carried out by a team who have prepared in advance by ‘walking the halls’ talking to staff and canvasing customers.
 
-![image](https://user-images.githubusercontent.com/57412626/217075409-555c582a-3f7d-46a5-9b43-55682d664b48.png)
+![image](https://user-images.githubusercontent.com/57412626/217076079-e991c2cc-3b7d-479c-a462-37ab09cbd43d.png)
 
 # How to do a SWOT
 To do a SWOT analysis get your team together and answer the following questions about your organization or project: 
 
-What Strengths do we have? (How can we take advantage of them?) 
+1.  What Strengths do we have? (How can we take advantage of them?) 
 
-What Weaknesses do we have? (How can we minimize them?) 
+2.  What Weaknesses do we have? (How can we minimize them?) 
 
-What Opportunities are there? (How can we capitalize on them?)
+3.  What Opportunities are there? (How can we capitalize on them?)
 
-What Threats do we face? (How can we avoid or neutralize them?) 
+4.  What Threats do we face? (How can we avoid or neutralize them?) 
 
-Winning tip for successful SWOT! 
+![image](https://user-images.githubusercontent.com/57412626/217076256-91715334-9326-4fe5-b1b1-9c053e4ea63e.png)
 
 McGrath and Bates note that most SWOT analyzes are next to useless because people forget that a strength is only a strength if it provides a competitive advantage, and a weakness is only a weakness if it causes a competitive disadvantage. 
 
 For example, having a great product is only a strength if it really is better than the competition, and having a newly trained team is only a weakness if it means you are more likely to lose out to your competitor(s). 
 
 # Questions to help identify your Strengths 
-What are our unique strengths? For example, most HR teams are qualified and experienced what is unique about us? 
-What makes us stand out against the competition? 
-What would our competitors say we are good at? 
-What do our customers like best about us/our product? 
+1.  What are our unique strengths? For example, most HR teams are qualified and experienced what is unique about us? 
+2.  What makes us stand out against the competition? 
+3.  What would our competitors say we are good at? 
+4.  What do our customers like best about us/our product? 
 
 # Questions to help find your Weaknesses 
-What does our competition do better? 
-Why do we lose against [competitors name]? 
-What do our competitors do that we don’t? 
-What do our competitors have that we don’t? 
-What do our customers like least about us? 
-What is the biggest complaint? 
+1.  What does our competition do better? 
+2.  Why do we lose against [competitors name]? 
+3.  What do our competitors do that we don’t? 
+4.  What do our competitors have that we don’t? 
+5.  What do our customers like least about us? 
+6.  What is the biggest complaint? 
 
 # Examples of Threats 
-bad debt 
-disruptive competition or technology 
-distribution problems 
-economic issues 
-industrial action 
-industrial espionage 
-security issues (IT or location) 
-key staff leave business 
-mergers of competitors 
-natural disasters or adverse environmental conditions 
-new market entrants 
-pricing actions by competitors 
-regulations and legislation 
-social and demographic factors impact customer tastes or habits 
-supply chain issues 
-war and civil unrest 
+1.  bad debt 
+2.  disruptive competition or technology 
+3.  distribution problems
+4.  economic issues 
+5.  industrial action 
+6.  industrial espionage 
+7.  security issues (IT or location) 
+8.  key staff leave business 
+9.  mergers of competitors 
+10. natural disasters or adverse environmental conditions 
+11. new market entrants 
+12. pricing actions by competitors 
+13. regulations and legislation 
+14. social and demographic factors impact customer tastes or habits 
+15. supply chain issues 
+16. war and civil unrest 
 
 #Examples of Opportunities 
-acquisitions 
-competitor failure/closure 
-divestments (selling subsidiary assets, investments, or divisions) 
-mergers
-new investment 
-new markets 
-new technologies 
-partnerships 
-political, economic, regulatory and trade developments 
-product upgrades, new products
+1.  acquisitions 
+2.  competitor failure/closure 
+3.  divestments (selling subsidiary assets, investments, or divisions) 
+4.  mergers
+5.  new investment 
+6.  new markets 
+7.  new technologies 
+8.  partnerships 
+9.  political, economic, regulatory and trade developments 
+10. product upgrades, new products
 
 
